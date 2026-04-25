@@ -1,5 +1,5 @@
 ![ZeroHitAUTMood](logo.png)
-🔥 AUTMood — Moodle Auto Login Tool
+ 🔥 AUTMood — Moodle Auto Login Tool
 ===================================
 
 ⚡ AUTMood is a precompiled Moodle auto login tool designed for testing
